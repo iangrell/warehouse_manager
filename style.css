@@ -1,0 +1,9 @@
+
+body{
+    background-color: black;
+    color: white;
+}
+
+.rowCard:hover {
+    border: 1px solid green;
+}
